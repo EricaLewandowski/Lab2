@@ -2,7 +2,6 @@ Lab2
 ====
 
 #Truth Table
-#Truth Table
 
 | A | B | Cin | Sum | Cout |
 |---|---|-----|-----|------|
