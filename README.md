@@ -1,6 +1,10 @@
 Lab2
 ====
 
-![description here](PrelabSim.PNG)
+![First Simulation](PrelabSim.PNG)
 
-![description here](PrelabSim2.PNG)
+![Second Simulation](PrelabSim2.PNG)
+
+![Circuit Design](photo.JPG)
+
+
